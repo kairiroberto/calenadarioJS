@@ -28,7 +28,7 @@ Conforme foi inserido na ***linha 15*** do código de exemplo.
 
 ### Conclusão
 
-O objetivo desse repositório é também auxiliar para utilização no desenvolvimento de aplicações que utilizam linguagem de hipertexto de maneira mais personalizável, tais como ***ANGULAR, IONIC, REAC, VUE etc***, pois o código pode ser facilmente importado no index.html desses framework e ajustado nas classes ts ou js que renderiza as páginas web.
+O objetivo desse repositório é também auxiliar para utilização no desenvolvimento de aplicações que utilizam linguagem de hipertexto de maneira mais personalizável, tais como ***ANGULAR, IONIC, REAC, VUE, etc***, pois o código pode ser facilmente importado no index.html desses framework e ajustado nas classes ts ou js que renderiza as páginas web.
 
 Caso o usuário queira realçar datas de uma base de dados no calendário, por exemplo, basta seguir a analógia da função ***marcarHoje***, que é chamada na função ***criarCalendário***, e criar outras funções para alterar os estilos das células.
 
