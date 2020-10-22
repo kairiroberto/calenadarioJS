@@ -24,4 +24,4 @@ No arquivo HTML, como no exemplo abaixo, basta inserir a seguinte linha:
 
 Conforme foi inserido na ***linha 15*** do código de exemplo.
 
-![Alt Text](img1.JPG)
+![Alt Text](img0.JPG)
