@@ -20,7 +20,7 @@ Inseria no HTML uma tag ***div*** com o atributo ***id*** igual a "divc", confor
 
 No arquivo HTML, como no exemplo abaixo, basta inserir a seguinte linha:
 
->> <script type="text/javascript" src="https://raw.githubusercontent.com/kairiroberto/calenadarioJS/main/CalendarioJS.js"></script>
+>> <script type="text/javascript" src="CalendarioJS.js"></script>
 
 Conforme foi inserido na ***linha 15*** do código de exemplo.
 
