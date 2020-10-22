@@ -8,11 +8,13 @@
 
 Baixe o arquivo CalendarioJS.js e salve o arquivo na mesma pasta do arquivo HTML que deseja inserir o calendário.
 
+
 ### Inserindo o componente que irá reproduzir o calendário
 
-Inseria no HTML uma tag ***div*** como ***id*** divc, conforme exemplo abaixo.
+Inseria no HTML uma tag ***div*** com o atributo ***id*** igual a "divc", conforme exemplo abaixo.
 
 >> <div id="divc"></div>
+
 
 ### Inserindo códigos na página (inline)
 
